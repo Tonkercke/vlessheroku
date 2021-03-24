@@ -9,13 +9,13 @@ vless 相比 vmess 性能更加优秀，占用资源更少，运行更加稳定�
 
 经测试本镜像占用内存资源较低，运行稳定。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FGeekNAUer%2Fvlessheroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Tonkercke/vlessheroku)
 
 ## 注意
 
 ### 路径
 
-`WebSocket` 路径(配置文件中的 `path` )为 `/app` 。
+`WebSocket` 路径(配置文件中的 `path` )为 `/uhgvqayfevddx` 。
 
 ### 端口
 
@@ -27,7 +27,8 @@ vless 相比 vmess 性能更加优秀，占用资源更少，运行更加稳定�
 
 ### UUID
 
-`UUID` 默认为 `3a53a3e5-da83-48d2-aee9-d88a498eb3dd` 可自行设置。
+`UUID` 默认为 `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx` 可自行设置。
+获取UUID：https://www.uuidgenerator.net/
 
 ## 流量中转
 
